@@ -25,6 +25,7 @@ body {
   outline: none;
   font-size: 13px;
   transition: 0.4s;
+  color: black;
 }
 
 .active,
